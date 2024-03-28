@@ -42,5 +42,3 @@ Users should be able to:
 
 - [Github](https://github.com/diegocgcfad)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/diegocgcfad)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
