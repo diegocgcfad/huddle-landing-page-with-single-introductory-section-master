@@ -1,0 +1,18 @@
+@media (max-width: 1100px) {
+    body {
+        background: var(--bg-color) url(../images/bg-mobile.svg) no-repeat;
+        background-size: cover; 
+        font-family: 'Poppins', sans-serif;
+        color: #fff;
+    }
+
+    .main {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .footer .socials{
+        margin-top: 5rem;
+        text-align: center;
+    }
+}
