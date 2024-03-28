@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/landing-page-using-flex-hKk0xmXQmb)
 - [Live Site URL](https://diegocgcfad.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
