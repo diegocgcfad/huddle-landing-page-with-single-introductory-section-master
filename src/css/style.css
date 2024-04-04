@@ -60,8 +60,9 @@ body {
     transition: 300ms;
 }
 
-.footer .socials {
-    text-align: right;
+.footer .socials ul {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .footer .socials .fab {
